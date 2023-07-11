@@ -50,7 +50,8 @@
                 "fatiguing": 1
             },
             "effects": {
-                "funds": 2
+                "funds": 2,
+                "lensing": -1
             }
         },
         {
@@ -1396,7 +1397,8 @@
             "warmup": 1,
             "effects": {
                 "restlessness": -1,
-                "pigment": -1
+                "pigment": -1,
+                "lensing": -1
             },
             "linked": [
                 {
