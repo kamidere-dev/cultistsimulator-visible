@@ -155,7 +155,7 @@
 					"UI_DEFAULTNAME": "J.N. Sinombre",
 					"UI_LANGSWITCHNOTES": "Note: we recommend starting a new game after you switch languages. Switching mid-game can cause issues with the display of some text.",
 					"UI_OPT_RESOLUTION": "Resolution",
-					"UI_OPT_WINDOWED": "Windowed",
+					"UI_OPT_WINDOWED": "Windowed", 
 					"UI_OPT_GRAPHICS_LEVEL": "Beauty",
 					"GRAPHICS_LEVEL_1": "Acceptable",
 					"GRAPHICS_LEVEL_2": "Admirable",

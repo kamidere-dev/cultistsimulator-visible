@@ -466,17 +466,7 @@
                 "fascination": 1,
                 "dread": 1
             },
-            "alt": [
-                {
-                    "id": "legacydetectiveplotitem_tempt_resist",
-                    "chance": 100
-                },
-                {
-                    "id": "visionsrisk",
-                    "chance": 100,
-                    "additional": true
-                }
-            ],
+            
             "warmup": 60,
             "craftable": false
         },
