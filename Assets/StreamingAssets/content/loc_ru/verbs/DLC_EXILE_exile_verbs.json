@@ -1,11 +1,11 @@
 {
     "verbs": [
         {
-            "id": "scout",
+            "id": "explore",
             "label": "Исследовать",
             "description": "Рассчитать перспективы.",
             "slot": {
-                "id": "scout",
+                "id": "explore",
                 "label": "Исследовать",
                 "required": {
                     "domicile": 1

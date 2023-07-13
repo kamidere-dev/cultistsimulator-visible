@@ -1,8 +1,8 @@
 {
     "recipes": [
         {
-            "id": "scout.first",
-            "actionid": "scout",
+            "id": "explore.first",
+            "actionid": "explore",
             "label": "Auskundschaften",
             "startdescription": "Das ist eine kalte alte Welt da draußen, doch ich habe da ein paar Tricks auf Lager.",
             "effects": {
@@ -18,8 +18,8 @@
             "comments": "opened by initial travel recipe"
         },
         {
-            "id": "scout.turmoil",
-            "actionid": "scout",
+            "id": "explore.turmoil",
+            "actionid": "explore",
             "label": "Eine Stadt in Aufruhr",
             "startdescription": "Ich sollte gehen – und zwar bald.",
             "requirements": {
@@ -29,8 +29,8 @@
             "hintonly": true
         },
         {
-            "id": "scout.aachen",
-            "actionid": "scout",
+            "id": "explore.aachen",
+            "actionid": "explore",
             "label": "Aachen auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -60,14 +60,14 @@
             }
         },
         {
-            "id": "scout.alexandria",
+            "id": "explore.alexandria",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
             "aspects": {
                 "tracerisk": 1
             },
             "craftable": true,
-            "actionid": "scout",
+            "actionid": "explore",
             "label": "Alexandria auskundschaften",
             "requirements": {
                 "domicile.alexandria": 1
@@ -99,8 +99,8 @@
             }
         },
         {
-            "id": "scout.algiers",
-            "actionid": "scout",
+            "id": "explore.algiers",
+            "actionid": "explore",
             "label": "Algier auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -137,8 +137,8 @@
             }
         },
         {
-            "id": "scout.amsterdam",
-            "actionid": "scout",
+            "id": "explore.amsterdam",
+            "actionid": "explore",
             "label": "Amsterdam auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -171,8 +171,8 @@
             }
         },
         {
-            "id": "scout.avignon",
-            "actionid": "scout",
+            "id": "explore.avignon",
+            "actionid": "explore",
             "label": "Avignon auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -203,8 +203,8 @@
             }
         },
         {
-            "id": "scout.baghdad",
-            "actionid": "scout",
+            "id": "explore.baghdad",
+            "actionid": "explore",
             "label": "Bagdad auskundschaften",
             "requirements": {
                 "domicile.baghdad": 1
@@ -236,8 +236,8 @@
             }
         },
         {
-            "id": "scout.budapest",
-            "actionid": "scout",
+            "id": "explore.budapest",
+            "actionid": "explore",
             "label": "Budapest auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -269,8 +269,8 @@
             }
         },
         {
-            "id": "scout.candia",
-            "actionid": "scout",
+            "id": "explore.candia",
+            "actionid": "explore",
             "label": "Candia-Heraklion auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -305,8 +305,8 @@
             }
         },
         {
-            "id": "scout.cluj",
-            "actionid": "scout",
+            "id": "explore.cluj",
+            "actionid": "explore",
             "label": "Cluj-Napoca auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -339,8 +339,8 @@
             }
         },
         {
-            "id": "scout.granada",
-            "actionid": "scout",
+            "id": "explore.granada",
+            "actionid": "explore",
             "label": "Granada auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -375,8 +375,8 @@
             }
         },
         {
-            "id": "scout.istanbul",
-            "actionid": "scout",
+            "id": "explore.istanbul",
+            "actionid": "explore",
             "label": "Istanbul auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -413,8 +413,8 @@
             }
         },
         {
-            "id": "scout.kaunas",
-            "actionid": "scout",
+            "id": "explore.kaunas",
+            "actionid": "explore",
             "label": "Kaunas auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -449,8 +449,8 @@
             }
         },
         {
-            "id": "scout.kiev",
-            "actionid": "scout",
+            "id": "explore.kiev",
+            "actionid": "explore",
             "label": "Kiew auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -483,8 +483,8 @@
             }
         },
         {
-            "id": "scout.krakow",
-            "actionid": "scout",
+            "id": "explore.krakow",
+            "actionid": "explore",
             "label": "Krakau auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -516,8 +516,8 @@
             }
         },
         {
-            "id": "scout.leningrad",
-            "actionid": "scout",
+            "id": "explore.leningrad",
+            "actionid": "explore",
             "label": "Leningrad auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -548,8 +548,8 @@
             }
         },
         {
-            "id": "scout.london",
-            "actionid": "scout",
+            "id": "explore.london",
+            "actionid": "explore",
             "label": "London auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -580,8 +580,8 @@
             }
         },
         {
-            "id": "scout.marrakech",
-            "actionid": "scout",
+            "id": "explore.marrakech",
+            "actionid": "explore",
             "label": "Marrakesch auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -618,8 +618,8 @@
             }
         },
         {
-            "id": "scout.meshad",
-            "actionid": "scout",
+            "id": "explore.meshad",
+            "actionid": "explore",
             "label": "Maschhad auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -655,8 +655,8 @@
             }
         },
         {
-            "id": "scout.munich",
-            "actionid": "scout",
+            "id": "explore.munich",
+            "actionid": "explore",
             "label": "München auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -687,8 +687,8 @@
             }
         },
         {
-            "id": "scout.nizhny",
-            "actionid": "scout",
+            "id": "explore.nizhny",
+            "actionid": "explore",
             "label": "Nischni auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -719,8 +719,8 @@
             }
         },
         {
-            "id": "scout.paris",
-            "actionid": "scout",
+            "id": "explore.paris",
+            "actionid": "explore",
             "label": "Paris auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -753,8 +753,8 @@
             }
         },
         {
-            "id": "scout.prague",
-            "actionid": "scout",
+            "id": "explore.prague",
+            "actionid": "explore",
             "label": "Prag auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -786,8 +786,8 @@
             }
         },
         {
-            "id": "scout.rostock",
-            "actionid": "scout",
+            "id": "explore.rostock",
+            "actionid": "explore",
             "label": "Rostock auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -821,8 +821,8 @@
             }
         },
         {
-            "id": "scout.samarkand",
-            "actionid": "scout",
+            "id": "explore.samarkand",
+            "actionid": "explore",
             "label": "Samarkand auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -855,8 +855,8 @@
             }
         },
         {
-            "id": "scout.stalingrad",
-            "actionid": "scout",
+            "id": "explore.stalingrad",
+            "actionid": "explore",
             "label": "Stalingrad auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -888,8 +888,8 @@
             }
         },
         {
-            "id": "scout.strasbourg",
-            "actionid": "scout",
+            "id": "explore.strasbourg",
+            "actionid": "explore",
             "label": "Strasbourg auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -920,8 +920,8 @@
             }
         },
         {
-            "id": "scout.sverdlovsk",
-            "actionid": "scout",
+            "id": "explore.sverdlovsk",
+            "actionid": "explore",
             "label": "Swerdlowsk auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -951,8 +951,8 @@
             }
         },
         {
-            "id": "scout.tiflis",
-            "actionid": "scout",
+            "id": "explore.tiflis",
+            "actionid": "explore",
             "label": "Tiflis auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -983,8 +983,8 @@
             }
         },
         {
-            "id": "scout.tirana",
-            "actionid": "scout",
+            "id": "explore.tirana",
+            "actionid": "explore",
             "label": "Tirana auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -1015,8 +1015,8 @@
             }
         },
         {
-            "id": "scout.tripoli",
-            "actionid": "scout",
+            "id": "explore.tripoli",
+            "actionid": "explore",
             "label": "Tripolis auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -1051,8 +1051,8 @@
             }
         },
         {
-            "id": "scout.valletta",
-            "actionid": "scout",
+            "id": "explore.valletta",
+            "actionid": "explore",
             "label": "Valletta auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -1084,8 +1084,8 @@
             }
         },
         {
-            "id": "scout.venice",
-            "actionid": "scout",
+            "id": "explore.venice",
+            "actionid": "explore",
             "label": "Venedig auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -1118,8 +1118,8 @@
             }
         },
         {
-            "id": "scout.vienna",
-            "actionid": "scout",
+            "id": "explore.vienna",
+            "actionid": "explore",
             "label": "Wien auskundschaften",
             "startdescription": "Durch die Stadt gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -1150,8 +1150,8 @@
             }
         },
         {
-            "id": "scout.end.foe.defeated",
-            "actionid": "scout",
+            "id": "explore.end.foe.defeated",
+            "actionid": "explore",
             "label": "Ausruhen und warten",
             "startdescription": "@#domicile.bornholm|\n#domicile.cheko|Jeden Tag geht die Sonne etwas früher auf. Der Wind wütet etwas weniger wild. Es ist fast Frühling.\n#domicile.ghardaia|Die drückende Halbstille der Hochwüste, die kriechende Sonne. Die Einheimischen halten voller Respekt Distanz, doch nun nicken sie, wenn ich an ihnen vorbeigehe.\n#domicile.messana|Schatten breiten sich mit jedem Tag aus, der vergeht. Manchmal kommen jetzt die Dörfler, um mir etwas zu essen zu bringen, oder sie grüßen mich.\n#domicile.morbihan|Die Brüder haben die Spuren des Kampfes beseitigt und erlauben mir, mit ihnen in der langen Halle das Fasten zu brechen, wo das Sonnenlicht in Streifen hereinfällt.\n#domicile.paro|Jeden Morgen gehe ich morgens die Stufen hoch und überquere die wackeligen Brücken, um mir die Dämmerung anzusehen. Die Mönche lächeln mich an, wenn ich vorbeikomme.\n#domicile.slettnes|Das Meer bricht sich jeden Morgen grau an den Felsen und grummelt mir die ganze Nacht lang etwas zu. Es ist etwas, was ich mir anhöre, wenn ich keinen Schlaf finden kann.@",
             "warmup": 30,
@@ -1168,8 +1168,8 @@
             }
         },
         {
-            "id": "scout.bornholm",
-            "actionid": "scout",
+            "id": "explore.bornholm",
+            "actionid": "explore",
             "label": "Sonnenschein-Insel auskundschaften",
             "startdescription": "Über die Insel gehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -1189,8 +1189,8 @@
             }
         },
         {
-            "id": "scout.slettnes",
-            "actionid": "scout",
+            "id": "explore.slettnes",
+            "actionid": "explore",
             "label": "Nebelfeuer-Punkt auskundschaften",
             "startdescription": "Die Küste entlanggehen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -1212,8 +1212,8 @@
             }
         },
         {
-            "id": "scout.cheko",
-            "actionid": "scout",
+            "id": "explore.cheko",
+            "actionid": "explore",
             "label": "See des Verwundeten Mondes auskundschaften ",
             "startdescription": "Durch die Wälder streifen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 30,
@@ -1235,8 +1235,8 @@
             }
         },
         {
-            "id": "scout.paro",
-            "actionid": "scout",
+            "id": "explore.paro",
+            "actionid": "explore",
             "label": "Das Tigernest auskundschaften",
             "startdescription": "Durch die Berge und das Kloster streifen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 60,
@@ -1258,8 +1258,8 @@
             }
         },
         {
-            "id": "scout.messana",
-            "actionid": "scout",
+            "id": "explore.messana",
+            "actionid": "explore",
             "label": "Die Einsiedelei der Sense auskundschaften",
             "startdescription": "Über die Hügel wandern, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 60,
@@ -1281,8 +1281,8 @@
             }
         },
         {
-            "id": "scout.ghardaia",
-            "actionid": "scout",
+            "id": "explore.ghardaia",
+            "actionid": "explore",
             "label": "Die Pentapolis auskundschaften",
             "startdescription": "Durch das Dorf und über das Plateau streifen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 60,
@@ -1303,8 +1303,8 @@
             }
         },
         {
-            "id": "scout.morbihan",
-            "actionid": "scout",
+            "id": "explore.morbihan",
+            "actionid": "explore",
             "label": "Die Priorei der Kapitäne auskundschaften",
             "startdescription": "Über die Insel streifen, nach Gelegenheiten suchen. [Manchmal hinterlässt du so eine Spur.]",
             "warmup": 60,
@@ -1326,8 +1326,8 @@
             }
         },
         {
-            "id": "scout.wilderness",
-            "actionid": "scout",
+            "id": "explore.wilderness",
+            "actionid": "explore",
             "label": "Auskundschaften",
             "startdescription": "Wo bin ich überhaupt?",
             "description": "@#op.cold|Irgendwo zappelnd im Schnee.\n#op.heat|Irgendwo, wo der Wind trocken und heiß weht.\n#op.sea|Irgendwo an einem nächtlichen Meer.\n#|Wer weiß schon?@",

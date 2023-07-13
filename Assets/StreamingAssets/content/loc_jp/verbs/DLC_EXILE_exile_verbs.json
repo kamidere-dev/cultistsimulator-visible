@@ -1,11 +1,11 @@
 {
     "verbs": [
         {
-            "id": "scout",
+            "id": "explore",
             "label": "偵察",
             "description": "可能性を嗅ぎ分ける。",
             "slot": {
-                "id": "scout",
+                "id": "explore",
                 "label": "偵察",
                 "required": {
                     "domicile": 1

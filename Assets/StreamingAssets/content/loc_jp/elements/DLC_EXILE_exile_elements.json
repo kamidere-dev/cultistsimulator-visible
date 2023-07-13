@@ -8985,7 +8985,7 @@
             }
         },
         {
-            "id": "rkx.scout",
+            "id": "rkx.explore",
             "label": "精算人の密告者",
             "aspects": {
                 "rkx.internal": 1
@@ -9015,7 +9015,7 @@
             },
             "xtriggers": {
                 "rkx.promote": "rkx.underboss",
-                "rkx.demote": "rkx.scout"
+                "rkx.demote": "rkx.explore"
             },
             "lifetime": 1,
             "decayTo": "corpse.exile.underling"
@@ -9031,7 +9031,7 @@
             },
             "xtriggers": {
                 "rkx.promote": "rkx.underboss",
-                "rkx.demote": "rkx.scout"
+                "rkx.demote": "rkx.explore"
             },
             "lifetime": 1,
             "decayTo": "corpse.exile.underling"

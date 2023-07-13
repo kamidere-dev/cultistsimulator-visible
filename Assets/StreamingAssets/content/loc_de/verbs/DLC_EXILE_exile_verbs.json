@@ -1,11 +1,11 @@
 {
     "verbs": [
         {
-            "id": "scout",
+            "id": "explore",
             "label": "Auskundschaften",
             "description": "Möglichkeiten erschnüffeln.",
             "slot": {
-                "id": "scout",
+                "id": "explore",
                 "label": "Auskundschaften",
                 "required": {
                     "domicile": 1

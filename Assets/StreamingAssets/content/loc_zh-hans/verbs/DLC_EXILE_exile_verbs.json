@@ -1,11 +1,11 @@
 {
     "verbs": [
         {
-            "id": "scout",
+            "id": "explore",
             "label": "勘察",
             "description": "嗅探可能性。",
             "slot": {
-                "id": "scout",
+                "id": "explore",
                 "label": "勘察",
                 "required": {
                     "domicile": 1

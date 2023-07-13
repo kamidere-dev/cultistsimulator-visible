@@ -1963,7 +1963,7 @@
             "haltverb": {
                 "rkx*": 100,
                 "opx*": 100,
-                "scout": 1,
+                "explore": 1,
                 "use": 1,
                 "send": 1,
                 "relinquish": 1,
@@ -2051,7 +2051,7 @@
             "comments": "Converts packed assets back into assets.",
             "alt": [
                 {
-                    "id": "scout.first",
+                    "id": "explore.first",
                     "additional": true
                 },
                 {

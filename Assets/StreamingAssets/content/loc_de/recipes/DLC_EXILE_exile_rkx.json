@@ -45,7 +45,7 @@
                 "rkx.infected": 1
             },
             "effects": {
-                "rkx.scout": 1
+                "rkx.explore": 1
             },
             "extantreqs": {
                 "rkx.underlings.blocker": -1
@@ -66,7 +66,7 @@
                 "trace": 2
             },
             "effects": {
-                "rkx.scout": 1
+                "rkx.explore": 1
             },
             "warmup": 50,
             "linked": [
@@ -84,7 +84,7 @@
                 "trace": 1
             },
             "effects": {
-                "rkx.scout": 1
+                "rkx.explore": 1
             },
             "warmup": 50,
             "linked": [
@@ -102,7 +102,7 @@
                 "trace": -1
             },
             "effects": {
-                "rkx.scout": 1
+                "rkx.explore": 1
             },
             "warmup": 50,
             "linked": [
@@ -171,16 +171,16 @@
                     "id": "rkx.operative.search"
                 },
                 {
-                    "id": "rkx.scouts.aggressive.reinforcements"
+                    "id": "rkx.explores.aggressive.reinforcements"
                 },
                 {
-                    "id": "rkx.scouts.aggressive.search"
+                    "id": "rkx.explores.aggressive.search"
                 },
                 {
-                    "id": "rkx.scouts.passive.hesitate"
+                    "id": "rkx.explores.passive.hesitate"
                 },
                 {
-                    "id": "rkx.scouts.passive.leave"
+                    "id": "rkx.explores.passive.leave"
                 }
             ]
         },
@@ -776,7 +776,7 @@
             ]
         },
         {
-            "id": "rkx.scouts.aggressive.reinforcements",
+            "id": "rkx.explores.aggressive.reinforcements",
             "actionid": "rkx",
             "label": "Verstärkung!",
             "startdescription": "Abrechner haben Beweise dafür, dass ich hier bin. Sie holen Hilfe, um mich auszuräuchern.",
@@ -798,7 +798,7 @@
             ]
         },
         {
-            "id": "rkx.scouts.aggressive.search",
+            "id": "rkx.explores.aggressive.search",
             "actionid": "rkx",
             "label": "Die Suche ausweiten ...",
             "startdescription": "Abrechner-Informanten entdecken mehr Hinweise. Sie könnten schon bald Verstärkung holen.",
@@ -820,7 +820,7 @@
             ]
         },
         {
-            "id": "rkx.scouts.passive.hesitate",
+            "id": "rkx.explores.passive.hesitate",
             "actionid": "rkx",
             "label": "Zögern",
             "startdescription": "Meine Verfolger – vorsichtig oder feige oder sich ihrer Beweise nicht sicher – haben noch nichts unternommen.",
@@ -839,7 +839,7 @@
             ]
         },
         {
-            "id": "rkx.scouts.passive.leave",
+            "id": "rkx.explores.passive.leave",
             "actionid": "rkx",
             "label": "Unentdeckt!",
             "startdescription": "Meine Verfolger sind überzeugt, dass ich nicht hier bin. Natürlich könnten sie immer noch zurückkommen.",

@@ -1,8 +1,8 @@
 {
     "recipes": [
         {
-            "id": "scout.first",
-            "actionid": "scout",
+            "id": "explore.first",
+            "actionid": "explore",
             "label": "Исследовать",
             "startdescription": "Старый и холодный мир. Но я знаю несколько хитростей.",
             "effects": {
@@ -18,8 +18,8 @@
             "comments": "opened by initial travel recipe"
         },
         {
-            "id": "scout.turmoil",
-            "actionid": "scout",
+            "id": "explore.turmoil",
+            "actionid": "explore",
             "label": "Город в смятении",
             "startdescription": "Мне нужно уходить — и как можно скорее.",
             "requirements": {
@@ -29,8 +29,8 @@
             "hintonly": true
         },
         {
-            "id": "scout.aachen",
-            "actionid": "scout",
+            "id": "explore.aachen",
+            "actionid": "explore",
             "label": "Исследовать Ахен",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -60,14 +60,14 @@
             }
         },
         {
-            "id": "scout.alexandria",
+            "id": "explore.alexandria",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
             "aspects": {
                 "tracerisk": 1
             },
             "craftable": true,
-            "actionid": "scout",
+            "actionid": "explore",
             "label": "Исследовать Александрию",
             "requirements": {
                 "domicile.alexandria": 1
@@ -99,8 +99,8 @@
             }
         },
         {
-            "id": "scout.algiers",
-            "actionid": "scout",
+            "id": "explore.algiers",
+            "actionid": "explore",
             "label": "Исследовать Алжир",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -137,8 +137,8 @@
             }
         },
         {
-            "id": "scout.amsterdam",
-            "actionid": "scout",
+            "id": "explore.amsterdam",
+            "actionid": "explore",
             "label": "Исследовать Амстердам",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -171,8 +171,8 @@
             }
         },
         {
-            "id": "scout.avignon",
-            "actionid": "scout",
+            "id": "explore.avignon",
+            "actionid": "explore",
             "label": "Исследовать Авиньон",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -203,8 +203,8 @@
             }
         },
         {
-            "id": "scout.baghdad",
-            "actionid": "scout",
+            "id": "explore.baghdad",
+            "actionid": "explore",
             "label": "Исследовать Багдад",
             "requirements": {
                 "domicile.baghdad": 1
@@ -236,8 +236,8 @@
             }
         },
         {
-            "id": "scout.budapest",
-            "actionid": "scout",
+            "id": "explore.budapest",
+            "actionid": "explore",
             "label": "Исследовать Будапешт",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -269,8 +269,8 @@
             }
         },
         {
-            "id": "scout.candia",
-            "actionid": "scout",
+            "id": "explore.candia",
+            "actionid": "explore",
             "label": "Исследовать Кандию-Ираклион",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -305,8 +305,8 @@
             }
         },
         {
-            "id": "scout.cluj",
-            "actionid": "scout",
+            "id": "explore.cluj",
+            "actionid": "explore",
             "label": "Исследовать Клуж-Напоку",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -339,8 +339,8 @@
             }
         },
         {
-            "id": "scout.granada",
-            "actionid": "scout",
+            "id": "explore.granada",
+            "actionid": "explore",
             "label": "Исследовать Гранаду",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -375,8 +375,8 @@
             }
         },
         {
-            "id": "scout.istanbul",
-            "actionid": "scout",
+            "id": "explore.istanbul",
+            "actionid": "explore",
             "label": "Исследовать Стамбул",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -413,8 +413,8 @@
             }
         },
         {
-            "id": "scout.kaunas",
-            "actionid": "scout",
+            "id": "explore.kaunas",
+            "actionid": "explore",
             "label": "Исследовать Каунас",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -449,8 +449,8 @@
             }
         },
         {
-            "id": "scout.kiev",
-            "actionid": "scout",
+            "id": "explore.kiev",
+            "actionid": "explore",
             "label": "Исследовать Киев",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -483,8 +483,8 @@
             }
         },
         {
-            "id": "scout.krakow",
-            "actionid": "scout",
+            "id": "explore.krakow",
+            "actionid": "explore",
             "label": "Исследовать Краков",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -516,8 +516,8 @@
             }
         },
         {
-            "id": "scout.leningrad",
-            "actionid": "scout",
+            "id": "explore.leningrad",
+            "actionid": "explore",
             "label": "Исследовать Ленинград",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -548,8 +548,8 @@
             }
         },
         {
-            "id": "scout.london",
-            "actionid": "scout",
+            "id": "explore.london",
+            "actionid": "explore",
             "label": "Исследовать Лондон",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -580,8 +580,8 @@
             }
         },
         {
-            "id": "scout.marrakech",
-            "actionid": "scout",
+            "id": "explore.marrakech",
+            "actionid": "explore",
             "label": "Исследовать Марракеш",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -618,8 +618,8 @@
             }
         },
         {
-            "id": "scout.meshad",
-            "actionid": "scout",
+            "id": "explore.meshad",
+            "actionid": "explore",
             "label": "Исследовать Мешхед",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -655,8 +655,8 @@
             }
         },
         {
-            "id": "scout.munich",
-            "actionid": "scout",
+            "id": "explore.munich",
+            "actionid": "explore",
             "label": "Исследовать Мюнхен",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -687,8 +687,8 @@
             }
         },
         {
-            "id": "scout.nizhny",
-            "actionid": "scout",
+            "id": "explore.nizhny",
+            "actionid": "explore",
             "label": "Исследовать Нижний Новгород",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -719,8 +719,8 @@
             }
         },
         {
-            "id": "scout.paris",
-            "actionid": "scout",
+            "id": "explore.paris",
+            "actionid": "explore",
             "label": "Исследовать Париж",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -753,8 +753,8 @@
             }
         },
         {
-            "id": "scout.prague",
-            "actionid": "scout",
+            "id": "explore.prague",
+            "actionid": "explore",
             "label": "Исследовать Прагу",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -786,8 +786,8 @@
             }
         },
         {
-            "id": "scout.rostock",
-            "actionid": "scout",
+            "id": "explore.rostock",
+            "actionid": "explore",
             "label": "Исследовать Росток",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -821,8 +821,8 @@
             }
         },
         {
-            "id": "scout.samarkand",
-            "actionid": "scout",
+            "id": "explore.samarkand",
+            "actionid": "explore",
             "label": "Исследовать Самарканд",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -855,8 +855,8 @@
             }
         },
         {
-            "id": "scout.stalingrad",
-            "actionid": "scout",
+            "id": "explore.stalingrad",
+            "actionid": "explore",
             "label": "Исследовать Сталинград",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -888,8 +888,8 @@
             }
         },
         {
-            "id": "scout.strasbourg",
-            "actionid": "scout",
+            "id": "explore.strasbourg",
+            "actionid": "explore",
             "label": "Исследовать Страсбург",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -920,8 +920,8 @@
             }
         },
         {
-            "id": "scout.sverdlovsk",
-            "actionid": "scout",
+            "id": "explore.sverdlovsk",
+            "actionid": "explore",
             "label": "Исследовать Свердловск",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -951,8 +951,8 @@
             }
         },
         {
-            "id": "scout.tiflis",
-            "actionid": "scout",
+            "id": "explore.tiflis",
+            "actionid": "explore",
             "label": "Исследовать Тифлис",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -983,8 +983,8 @@
             }
         },
         {
-            "id": "scout.tirana",
-            "actionid": "scout",
+            "id": "explore.tirana",
+            "actionid": "explore",
             "label": "Исследовать Тирану",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -1015,8 +1015,8 @@
             }
         },
         {
-            "id": "scout.tripoli",
-            "actionid": "scout",
+            "id": "explore.tripoli",
+            "actionid": "explore",
             "label": "Исследовать запад Триполи",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -1051,8 +1051,8 @@
             }
         },
         {
-            "id": "scout.valletta",
-            "actionid": "scout",
+            "id": "explore.valletta",
+            "actionid": "explore",
             "label": "Исследовать Валлетту",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -1084,8 +1084,8 @@
             }
         },
         {
-            "id": "scout.venice",
-            "actionid": "scout",
+            "id": "explore.venice",
+            "actionid": "explore",
             "label": "Исследовать Венецию",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -1118,8 +1118,8 @@
             }
         },
         {
-            "id": "scout.vienna",
-            "actionid": "scout",
+            "id": "explore.vienna",
+            "actionid": "explore",
             "label": "Исследовать Вену",
             "startdescription": "Прогуляться по городу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -1150,8 +1150,8 @@
             }
         },
         {
-            "id": "scout.end.foe.defeated",
-            "actionid": "scout",
+            "id": "explore.end.foe.defeated",
+            "actionid": "explore",
             "label": "Отдохнуть и подождать",
             "startdescription": "@#domicile.bornholm|Местные не знают точно, что произошло, но им ясно: все кончено. Один художник никак не прекратит звать меня позировать для портрета. Думаю, скоро я все же соглашусь.\n#domicile.cheko|С каждым днём солнце встаёт немного раньше, а ветра уж не такие злые. Весна почти наступила.\n#domicile.ghardaia|Дрожащая полутишь высокой пустыни; ползущее солнце. Местные всё ещё держатся на почтительном расстоянии, но уже кивают при встрече.\n#domicile.messana|С каждым днём тени становятся всё длиннее. Теперь жители приходят ко мне время от времени поздороваться, угостить чем-то вкусным.\n#domicile.morbihan|Братья убрали все разрушения после битвы и разрешили мне позавтракать с ними в длинном зале, освещаемом косыми лучами солнца.\n#domicile.paro|Каждое утро я взбираюсь на ступени, переправляюсь по шатким мостикам и любуюсь рассветом. Монахи мне улыбаются, когда я прохожу мимо.\n#domicile.slettnes|Каждое утро море рассыпается серыми брызгами на камнях а ночами рычит на меня. Иногда я его слушаю, когда не могу уснуть.@",
             "warmup": 30,
@@ -1168,8 +1168,8 @@
             }
         },
         {
-            "id": "scout.bornholm",
-            "actionid": "scout",
+            "id": "explore.bornholm",
+            "actionid": "explore",
             "label": "Исследовать Солнечный остров",
             "startdescription": "Прогуляться по острову в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -1189,8 +1189,8 @@
             }
         },
         {
-            "id": "scout.slettnes",
-            "actionid": "scout",
+            "id": "explore.slettnes",
+            "actionid": "explore",
             "label": "Исследовать мыс Огненной Мглы",
             "startdescription": "Обойти побережье в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -1212,8 +1212,8 @@
             }
         },
         {
-            "id": "scout.cheko",
-            "actionid": "scout",
+            "id": "explore.cheko",
+            "actionid": "explore",
             "label": "Исследовать озеро Раненой Луны ",
             "startdescription": "Прогуляться по Лесу в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 30,
@@ -1235,8 +1235,8 @@
             }
         },
         {
-            "id": "scout.paro",
-            "actionid": "scout",
+            "id": "explore.paro",
+            "actionid": "explore",
             "label": "Исследовать Гнездо тигра",
             "startdescription": "Отправиться в горы и монастырь в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 60,
@@ -1258,8 +1258,8 @@
             }
         },
         {
-            "id": "scout.messana",
-            "actionid": "scout",
+            "id": "explore.messana",
+            "actionid": "explore",
             "label": "Исследовать Обитель Жнеца",
             "startdescription": "Подняться на холмы в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 60,
@@ -1281,8 +1281,8 @@
             }
         },
         {
-            "id": "scout.ghardaia",
-            "actionid": "scout",
+            "id": "explore.ghardaia",
+            "actionid": "explore",
             "label": "Исследовать Пентаполь",
             "startdescription": "Отправиться в деревню и на возвышенность в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 60,
@@ -1303,8 +1303,8 @@
             }
         },
         {
-            "id": "scout.morbihan",
-            "actionid": "scout",
+            "id": "explore.morbihan",
+            "actionid": "explore",
             "label": "Исследовать Капитанский приорат",
             "startdescription": "Пройти по острову в поисках возможностей. [Иногда можно оставить следы].",
             "warmup": 60,
@@ -1326,8 +1326,8 @@
             }
         },
         {
-            "id": "scout.wilderness",
-            "actionid": "scout",
+            "id": "explore.wilderness",
+            "actionid": "explore",
             "label": "Исследовать",
             "startdescription": "Где я?",
             "description": "@#op.cold|Где-то в глубоких снегах.\n#op.heat|Где-то, где дуют ветры, сухие и горячие.\n#op.sea|Где-то у тёмного моря.\n#|Кто знает?@",
