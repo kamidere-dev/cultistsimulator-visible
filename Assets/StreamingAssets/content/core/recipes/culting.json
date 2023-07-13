@@ -1054,7 +1054,7 @@
             "label": "Establish the Towers of the Dove",
             "actionid": "establishcult",
             "requirements": {
-                "alzabo": 1
+                "spirit_forgee_edge.defunct": 1
             },
             "effects": {
                 "cultwinter_2": 1
