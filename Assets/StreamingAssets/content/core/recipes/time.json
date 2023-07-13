@@ -22,7 +22,7 @@
             "alt": [
                 {
                     "id": "forlornbloodsickness",
-                    "chance": 70,
+                    "chance": 70,   
                     "additional": true
                 },
                 {
@@ -419,7 +419,7 @@
                     "chance": 100
                 }
             ],
-            "startdescription": ".",
+            "startdescription": "I need food or I will starve.",
             "description": "Without money, I'll soon starve. [If an illness cannot consume Health, it will kill you.]",
             "warmup": 60,
             "slots": [
